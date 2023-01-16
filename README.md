@@ -22,5 +22,7 @@ THEN I am again presented with current and future conditions for that city
 
 ## Mock-Up
 The following image shows the web application's appearance and functionality:
+![Screenshot (28)](https://user-images.githubusercontent.com/117637052/212622328-0dd12bd7-86d9-4a3a-8260-7bea587c64a1.png)
 
 ## Please follow this link to the app!
+https://tadhgin.github.io/weather-dashboard/
